@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSubPub", "RedisSubPub\RedisSubPub.csproj", "{07675FAD-EE35-4707-B21E-3CB92770D8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSubPubEmail", "RedisSubPubEmail\RedisSubPubEmail.csproj", "{BA54676C-6DB0-4DD0-9820-8636F9FF5E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSubPubTextMessage", "RedisSubPubTextMessage\RedisSubPubTextMessage.csproj", "{7AA1D483-B385-4390-93D4-10144F063312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07675FAD-EE35-4707-B21E-3CB92770D8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07675FAD-EE35-4707-B21E-3CB92770D8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07675FAD-EE35-4707-B21E-3CB92770D8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07675FAD-EE35-4707-B21E-3CB92770D8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA54676C-6DB0-4DD0-9820-8636F9FF5E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA54676C-6DB0-4DD0-9820-8636F9FF5E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA54676C-6DB0-4DD0-9820-8636F9FF5E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA54676C-6DB0-4DD0-9820-8636F9FF5E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA1D483-B385-4390-93D4-10144F063312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA1D483-B385-4390-93D4-10144F063312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA1D483-B385-4390-93D4-10144F063312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA1D483-B385-4390-93D4-10144F063312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82454873-C09F-4A43-9001-F31FABE121BC}
+	EndGlobalSection
+EndGlobal
